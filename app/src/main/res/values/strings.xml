@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">demo</string>
+    <string name="binded">Binded</string>
+    <string name="unbinded">Unbinded</string>
+    <string name="kill_success">kill success</string>
+    <string name="kill_failure">kill failure</string>
+
 </resources>
